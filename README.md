@@ -11,11 +11,6 @@ This repository contains the Jupyter notebook and other relevant files relating 
     <li><a href='#Description'> Description</a></li>
     <li><a href="#Script">How To Get The Repository  on Your Machine</a></li>
     <li><a href="#Jupyter">Running Jupyter Notebook</a></li>
-    <li><a href='#Technologies_Used'>Technologies Used</a></li>
-    <li><a href="#Libraries_Used">Libraries Used</a></li>
-    <li><a href="#credits">Credits</a></li>
-    <li><a href="#contact">Contact</a></li>
-    
   </ol>
 <br>
 
@@ -102,6 +97,6 @@ Additionally, if you wish to view the notebook without having to install additio
 
 <br> </br>
 
-`XXX.ipynb`
+`my_spotify.ipynb`
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kmcd14/FofData-assessment/blob/main/pyplot.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://https://nbviewer.org/github/kmcd14/spotify/blob/main/my_spotify.ipynb)
