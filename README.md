@@ -99,4 +99,4 @@ Additionally, if you wish to view the notebook without having to install additio
 
 `my_spotify.ipynb`
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://https://nbviewer.org/github/kmcd14/spotify/blob/main/my_spotify.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kmcd14/spotify/blob/main/my_spotify.ipynb)
